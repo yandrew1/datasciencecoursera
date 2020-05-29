@@ -1,1 +1,3 @@
 # datasciencecoursera
+
+Hi there Coursera!
